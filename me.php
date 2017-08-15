@@ -7,6 +7,6 @@
     <title>ME</title>
 </head>
 <body>
-    
+    ME IN SSH APPLICATION
 </body>
 </html>
